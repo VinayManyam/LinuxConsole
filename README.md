@@ -1,2 +1,0 @@
-# LinuxConsole
-few Important commands 
